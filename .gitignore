@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+
+# VS Code
+.vscode/
+
+# Large model file
+model/*.keras
+
+# Dataset images
+dataset/train/*
+dataset/validation/*
+
+# OS
+.DS_Store
+Thumbs.db

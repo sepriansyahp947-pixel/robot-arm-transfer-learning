@@ -1,0 +1,19 @@
+CLASSIFICATION REPORT
+==================================================
+
+Overall Accuracy: 0.8522 (85.22%)
+
+Class: blue
+Precision: 0.7660
+Recall:    0.9231
+F1-Score:  0.8372
+
+Class: green
+Precision: 0.8438
+Recall:    0.7105
+F1-Score:  0.7714
+
+Class: red
+Precision: 0.9722
+Recall:    0.9211
+F1-Score:  0.9459
